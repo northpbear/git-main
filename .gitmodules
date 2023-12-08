@@ -1,6 +1,8 @@
 [submodule "submodule/aaa"]
 	path = submodule/aaa
 	url = git@github.com:northpbear/git-submodule-aaa.git
+	branch = develop1
 [submodule "submodule/bbb"]
 	path = submodule/bbb
 	url = git@github.com:northpbear/git-submodule-bbb.git
+	branch = main
